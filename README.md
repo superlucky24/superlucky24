@@ -31,6 +31,13 @@
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
 - Portfolio
+
+## 🚀 Skills
+**Languages:** HTML, CSS, JavaScript, TypeScript  
+**Frameworks:** React, Node.js  
+**Tools:** Git, Figma, VS Code, Photoshop  
+
+
 <br>
 
 ## 🧩 Projects
@@ -84,17 +91,5 @@
 
 
 
-# 👋 Hi, I'm 박학생!
 
-### 💻 Front-End Developer | Web Designer | Creative Coder
-
-저는 웹 개발과 디자인을 모두 즐기는 프론트엔드 개발자입니다.  
-**React**, **HTML/CSS**, **JavaScript**, 그리고 **UI/UX 디자인**에 관심이 많아요.
-
----
-
-## 🚀 Skills
-**Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks:** React, Node.js  
-**Tools:** Git, Figma, VS Code, Photoshop  
 
