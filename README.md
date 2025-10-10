@@ -18,6 +18,14 @@
   
 <br>
 
+## ⚙️ 지금 배우는 기술들
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
 **My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
@@ -25,6 +33,28 @@
 - Portfolio
 <br>
 
+## 🧩 Projects
+| 프로젝트명 | 설명 | 링크 |
+|-------------|------|------|
+| Portfolio Website | 개인 포트폴리오 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_web/) |
+| Parallex Page | 패럴랙스 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project1/) |
+| Montblanc Page | 뫃블랑 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project2/) |
+| Caxa Page | 쇼핌몰 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project3/) |
+| apple mobile Page | 애플 모바일 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project4/) |
+
+---
+
+
+## 📈 GitHub Stats
+![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+📧 **Email:** your.email@example.com  
+🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+💬 **Blog:** [devlog.example.com](https://devlog.example.com)
 
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
