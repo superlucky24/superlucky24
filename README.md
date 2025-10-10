@@ -59,3 +59,38 @@
 
 
 <br />
+
+
+
+# 👋 Hi, I'm 박학생!
+
+### 💻 Front-End Developer | Web Designer | Creative Coder
+
+저는 웹 개발과 디자인을 모두 즐기는 프론트엔드 개발자입니다.  
+**React**, **HTML/CSS**, **JavaScript**, 그리고 **UI/UX 디자인**에 관심이 많아요.
+
+---
+
+## 🚀 Skills
+**Languages:** HTML, CSS, JavaScript, TypeScript  
+**Frameworks:** React, Node.js  
+**Tools:** Git, Figma, VS Code, Photoshop  
+
+---
+
+## 🧩 Projects
+| 프로젝트명 | 설명 | 링크 |
+|-------------|------|------|
+| Portfolio Website | 개인 포트폴리오 페이지 | [🔗 바로가기](https://github.com/username/portfolio) |
+| Apple Mobile Page | 애플 스타일 모바일 웹 | [🔗 바로가기](https://github.com/username/apple-mobile) |
+
+---
+
+## 📊 GitHub Stats
+![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 💬 Contact
+📧 **Email:** your.email@example.com  
+🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
