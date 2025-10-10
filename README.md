@@ -27,14 +27,10 @@
 
 
 ** 🚀 My tech stack :**  
-- **Languages:** (HTML, CSS, javaScript, jQuery)
-- **Frameworks:** : React, Node.js 
-- **Tools:** : Git, VS Code
+- **Languages:** HTML, CSS, javaScript, jQuery
+- **Frameworks:**  React, Node.js 
+- **Tools:**  Git, VS Code
 
-## 🚀 Skills
-**Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks:** React, Node.js  
-**Tools:** Git, Figma, VS Code, Photoshop  
 
 
 <br>
