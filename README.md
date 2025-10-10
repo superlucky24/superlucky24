@@ -53,7 +53,7 @@
 ---
 
 ## 📫 Contact
-📧 **Email:** pgh224@gmail.com 
+📧 **Email:** pgh224@naver.com 
 
 
 <!-- 뱃지 사용방법 -->
