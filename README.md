@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">👋Hi, I'm 박귀환</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
 </h3>
