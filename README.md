@@ -27,7 +27,7 @@
 - **Frameworks :** <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=51FF49"/>
 - **Tools :**  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/> <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=VSCode&logoColor=3355FF"/>
 
-배울예정
+배울 예정
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=513AFF"/>
