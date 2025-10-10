@@ -27,6 +27,7 @@
 배울예정
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/>
 
 <br>
