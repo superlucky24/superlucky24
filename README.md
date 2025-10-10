@@ -27,7 +27,7 @@
 배울예정
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/mysql-white?style=flat&logo=mysql&logoColor=513AFF"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=513AFF"/>
 <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/>
 
 <br>
