@@ -52,9 +52,7 @@
 ---
 
 ## 📫 Contact
-📧 **Email:** your.email@example.com  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-💬 **Blog:** [devlog.example.com](https://devlog.example.com)
+📧 **Email:** pgh224@gmail.com 
 
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
