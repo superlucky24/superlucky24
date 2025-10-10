@@ -26,11 +26,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-**🚀My tech stack :**  
-- Backend web development (Java, Servlet/JSP)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
-- Portfolio
+** 🚀 My tech stack :**  
+- **Languages:** (HTML, CSS, javaScript, jQuery)
+- **Frameworks:** : React, Node.js 
+- **Tools:** : Git, VS Code
 
 ## 🚀 Skills
 **Languages:** HTML, CSS, JavaScript, TypeScript  
