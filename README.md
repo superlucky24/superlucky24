@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nice%20to%20meet%20you&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,3,6,19&height=300&section=header&text=Nice%20to%20meet%20you&fontSize=90)
 <h1 align="center">👋Hi, I'm 박귀환!</h1>
 <h3 align="center">
  💻 Front-End & Back-End 배우는 중.
