@@ -46,8 +46,8 @@
 
 
 ## 📈 GitHub Stats
-![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlucky24&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superlucky24&layout=compact&theme=tokyonight)
 
 ---
 
