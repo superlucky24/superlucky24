@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm 박귀환</h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+ 💻 Front-End & Back-End 배우고 있습니다.
 </h3>
 <br /><br />
 <p>
@@ -81,13 +81,16 @@
 ## 🧩 Projects
 | 프로젝트명 | 설명 | 링크 |
 |-------------|------|------|
-| Portfolio Website | 개인 포트폴리오 페이지 | [🔗 바로가기](https://github.com/username/portfolio) |
-| Apple Mobile Page | 애플 스타일 모바일 웹 | [🔗 바로가기](https://github.com/username/apple-mobile) |
+| Portfolio Website | 개인 포트폴리오 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_web/) |
+| Parallex Page | 패럴랙스 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project1/) |
+| Montblanc Page | 뫃블랑 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project2/) |
+| Caxa Page | 쇼핌몰 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project3/) |
+| apple mobile Page | 애플 모바일 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project4/) |
 
 ---
 
 ## 📊 GitHub Stats
-![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlucky24&show_icons=true&theme=radical)
 
 ---
 
