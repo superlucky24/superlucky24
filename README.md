@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-**My tech stack :**  
+**🚀My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
@@ -98,24 +98,3 @@
 **Frameworks:** React, Node.js  
 **Tools:** Git, Figma, VS Code, Photoshop  
 
----
-
-## 🧩 Projects
-| 프로젝트명 | 설명 | 링크 |
-|-------------|------|------|
-| Portfolio Website | 개인 포트폴리오 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_web/) |
-| Parallex Page | 패럴랙스 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project1/) |
-| Montblanc Page | 뫃블랑 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project2/) |
-| Caxa Page | 쇼핌몰 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project3/) |
-| apple mobile Page | 애플 모바일 클론 코딩 웹 페이지 | [🔗 바로가기](https://superlucky24.github.io/kd_project4/) |
-
----
-
-## 📊 GitHub Stats
-![박학생's GitHub stats](https://github-readme-stats.vercel.app/api?username=superlucky24&show_icons=true&theme=radical)
-
----
-
-## 💬 Contact
-📧 **Email:** your.email@example.com  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
