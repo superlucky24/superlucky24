@@ -24,7 +24,7 @@
 ##  🚀 My tech stack  
 
 - **Languages :** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=339933"/> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo=Java&logoColor=4479A1"/>
-- **Frameworks :** <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=51FF49"/>
+- **Frameworks :** <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=51FF49"/> Spring, Spring Boot
 - **Tools :**  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/> <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=VSCode&logoColor=3355FF"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>
 
 
